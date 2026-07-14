@@ -11,11 +11,11 @@ export default ({ mode }) => {
     const scssContent = `
         // Do not change this file, it will be overwritten!
         // Theming variables generated from .env while building front-end
-        $envColorPrimary: ${process.env.VITE_THEME_PRIMARY || '#1a475f'};
-        $envColorSecondary: ${process.env.VITE_THEME_SECONDARY || '#484b4c'};
-        $envColorTertiary: ${process.env.VITE_THEME_TERTIARY || '#011328'};
+        $envColorPrimary: ${process.env.VITE_THEME_PRIMARY || '#0197B0'};
+        $envColorSecondary: ${process.env.VITE_THEME_SECONDARY || '#07262C'};
+        $envColorTertiary: ${process.env.VITE_THEME_TERTIARY || '#07262C'};
         $envColorInfo: ${process.env.VITE_THEME_INFO || '#17a2b8'};
-        $envColorSuccess: ${process.env.VITE_THEME_SUCCESS || '#41826e'};
+        $envColorSuccess: ${process.env.VITE_THEME_SUCCESS || '#7BD758'};
         $envColorWarning: ${process.env.VITE_THEME_WARNING || '#ff9800'};
         $envColorDanger: ${process.env.VITE_THEME_DANGER || '#b63f3f'};
         $envBorderRadius: ${process.env.VITE_THEME_BORDER_RADIUS || '2px'};
