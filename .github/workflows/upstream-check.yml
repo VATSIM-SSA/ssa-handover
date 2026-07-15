@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "0 6 * * *"   # 06:00 UTC daily
   workflow_dispatch:
+  push:
+    branches: [staging]   # TEMP: remove after webhook test
+    paths:
+      - ".handover-upstream-version"
+      - ".github/workflows/upstream-check.yml"
 
 jobs:
   check:
