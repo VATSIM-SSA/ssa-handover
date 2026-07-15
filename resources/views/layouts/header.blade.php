@@ -1,4 +1,4 @@
 <div class="header">
-    <h1>Handover</h1>
-    <p>Centralised Login Service</p>
+    <h1>VATSSA Handover</h1>
+    <p>VATSIM Sub-Saharan Africa — Centralised Login</p>
 </div>

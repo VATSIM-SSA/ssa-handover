@@ -1,40 +1,40 @@
 <div class="pp-bullet">
     <i class="fa-solid fa-database"></i>
-    We collect info about you when you use our website and services, sign in through VATSIM Connect, or from public sources. This info can include your VATSIM details, name, country of residence, email, age, gender, and some device info like IP addresses.
+    We collect personal data including, but not limited to, your full name, VATSIM CID, VATSIM-registered email address, your region/division/subdivision, and your VATSIM ATC and/or pilot ratings. We obtain this through the VATSIM API and your use of our infrastructure, on the lawful basis of legitimate interests.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-child-reaching"></i>
-    We don't knowingly collect info from kids under 13. If you're under 13, or if you know someone who is and uses our services, let us know so we can delete their info.
-</div>
-<div class="pp-bullet">
-    <i class="fa-solid fa-book"></i>
-    If you're in the European Economic Area, you have certain rights to control your info. You can ask us to correct, delete, or limit the use of your info. You can also complain to a data protection authority if you're not happy with how we handle your info.
+    We don't knowingly collect data from children under 13. If you believe we have, contact our Data Protection Officer without delay so we can review and, if necessary, erase it.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-gear"></i>
-    We use your info to manage your account, provide services, send updates, improve your experience, and to enforce policies. We might also share your info with VATSIM and other partners who help us run our services. We won't share your info with unrelated third parties without your permission.
+    We use your data in good faith to provide ATC training and support, and to run, maintain, and improve our infrastructure. We don't knowingly build profiles of you, and we don't process your data intentionally using artificial intelligence.
 </div>
 <div class="pp-bullet">
-    <i class="fa-solid fa-cookie"></i>
-    Our website uses cookies, which are small files stored on your device. They help us run our website and services and understand how you use them. We also use analytical cookies to gather info on how you use our website, which helps us improve the service.
+    <i class="fa-solid fa-handshake"></i>
+    We share your personal data with VATSIM for operational purposes. We don't share it with unrelated third parties.
+</div>
+<div class="pp-bullet">
+    <i class="fa-solid fa-clock-rotate-left"></i>
+    We keep your data only as long as necessary. Because training and access can be ongoing, there's no fixed retention period. We securely delete or anonymise data when it's no longer needed; residual copies may remain in encrypted backups for a limited time.
+</div>
+<div class="pp-bullet">
+    <i class="fa-solid fa-book"></i>
+    Under the EU GDPR you have rights over your data: to be informed, and to access, rectification, erasure, restriction, objection, and portability, plus rights relating to automated decision-making and profiling. Contact our DPO to exercise them.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-lock"></i>
-    We take steps to keep your info safe and secure. But remember, no method is 100% secure, and we can't guarantee the absolute security of your info.
+    We take reasonable steps to keep your data secure. No method of transmission or storage is 100% secure, so we can't guarantee its absolute security.
 </div>
 <div class="pp-bullet">
-    <i class="fa-solid fa-lock-open"></i>
-    If a data breach occurs, we'll do our best to fix it and tell you about it if there's a risk of harm to you.
+    <i class="fa-solid fa-bullhorn"></i>
+    If you feel we haven't complied with the EU GDPR or VATSIM's data-protection policies, you can complain to the VATSIM Membership Department via support.vatsim.net.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-retweet"></i>
-    We can change this policy at any time. If we make a big change, we'll ask for your consent again when you log in next time.
-</div>
-<div class="pp-bullet">
-    <i class="fa-solid fa-square-check"></i>
-    By using our website and services, you agree to this policy. If you don't agree, you can't use our services.
+    We may update this policy. After a significant change we'll ask you to accept it again the next time you log in. The current version is published at vatssa.com.
 </div>
 <div class="pp-bullet">
     <i class="fas fa-envelope"></i>
-    If you have questions or want to exercise your rights, you can contact our Data Protection Officer at <a href="mailto:{{ Config::get('app.dpo_mail') }}">{{ Config::get('app.dpo_mail') }}</a>
+    Questions, or want to exercise your rights? Contact our Data Protection Officer at <a href="mailto:{{ Config::get('app.dpo_mail') }}">{{ Config::get('app.dpo_mail') }}</a>
 </div>

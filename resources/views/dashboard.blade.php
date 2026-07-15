@@ -6,7 +6,7 @@
         <passport-authorized-clients></passport-authorized-clients>
     </div>
 
-    <div class="alert alert-info text-sm" style="font-size: 12px" role="alert">
+    <div class="alert text-sm" style="font-size: 12px; background-color: #F8F3F0; border: 1px solid #0197B0; color: #07262C;" role="alert">
         <i class="fas fa-info-circle"></i>&nbsp;To delete your personal data contact the <a href="mailto:{{ Config::get('app.dpo_mail') }}">Data Protection Officer</a>.
     </div>
 

@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
-    <div class="bg-primary min-vh-100 pb-4">
+    <div class="min-vh-100 pb-4" style="background-color: #07262C;">
         <div class="container-md">
             <div class="row justify-content-center pt-4 pb-2">
                 <div class="col-lg-10 col-md-12">
