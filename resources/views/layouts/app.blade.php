@@ -19,7 +19,7 @@
     @stack('head')
 </head>
 <body>
-    <div class="bg-primary min-vh-100 pb-2">
+    <div class="min-vh-100 pb-2" style="background-color: #07262C;">
         <div class="container">
             <div class="row justify-content-center pt-4 pb-4">
                 <div class="col-md-6 text-center">

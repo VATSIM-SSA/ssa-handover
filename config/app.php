@@ -103,7 +103,7 @@ return [
     |
     */
 
-    'logo' => env('APP_LOGO', 'logo_horizontal_dark.svg'),
+    'logo' => env('APP_LOGO', 'logo_horizontal_white.svg'),
 
     /*
     |--------------------------------------------------------------------------
