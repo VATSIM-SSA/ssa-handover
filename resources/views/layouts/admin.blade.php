@@ -6,7 +6,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="robots" content="noindex">
     <title>{{ config('app.name', 'Handover') }} — Groups</title>
-    <link rel="icon" href="{{ URL::asset('/favicon.ico') }}" type="image/x-icon"/>
+    <link rel="icon" href="{{ URL::asset('/images/logos/logo_icon.svg') }}" type="image/svg+xml"/>
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
