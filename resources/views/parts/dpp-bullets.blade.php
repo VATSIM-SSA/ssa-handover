@@ -1,6 +1,6 @@
 <div class="pp-bullet">
     <i class="fa-solid fa-database"></i>
-    We collect your full name, VATSIM CID, VATSIM-registered email address, your region/division/subdivision, and your VATSIM ATC and/or pilot ratings. We obtain this through the VATSIM API and your use of our infrastructure, on the lawful basis of legitimate interests.
+    We collect personal data including, but not limited to, your full name, VATSIM CID, VATSIM-registered email address, your region/division/subdivision, and your VATSIM ATC and/or pilot ratings. We obtain this through the VATSIM API and your use of our infrastructure, on the lawful basis of legitimate interests.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-child-reaching"></i>
