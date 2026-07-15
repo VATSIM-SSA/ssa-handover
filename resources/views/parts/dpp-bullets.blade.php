@@ -8,11 +8,11 @@
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-gear"></i>
-    We use your data to provide ATC training and support, and to run, maintain, and improve our infrastructure. We don't build profiles of you, and we don't process your data using artificial intelligence.
+    We use your data in good faith to provide ATC training and support, and to run, maintain, and improve our infrastructure. We don't knowingly build profiles of you, and we don't process your data intentionally using artificial intelligence.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-handshake"></i>
-    We share your personal data with VATSIM, with your consent, for operational purposes. We don't share it with unrelated third parties.
+    We share your personal data with VATSIM for operational purposes. We don't share it with unrelated third parties.
 </div>
 <div class="pp-bullet">
     <i class="fa-solid fa-clock-rotate-left"></i>
