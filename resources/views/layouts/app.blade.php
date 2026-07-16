@@ -13,9 +13,6 @@
     <link rel="icon" href="{{ URL::asset('/images/logos/logo_icon.svg') }}" type="image/svg+xml"/>
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
     @stack('head')
 </head>
 <body>
